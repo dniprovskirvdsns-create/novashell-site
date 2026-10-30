@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NovaShell Enterprise — All Versions Archive (v1.0 - v5.0)</title>
+    <style>
+        :root { --bg: #0b0f19; --panel: #111827; --green: #10b981; --cyan: #06b6d4; --text: #f3f4f6; --muted: #9ca3af; }
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Courier New', Courier, monospace; }
+        body { background-color: var(--bg); color: var(--text); padding: 20px; line-height: 1.6; }
+        header { text-align: center; margin-bottom: 30px; border-bottom: 2px solid var(--green); padding-bottom: 20px; }
+        h1 { color: var(--green); font-size: 2.3rem; }
+        .lang-switch { margin-top: 10px; }
+        .lang-switch a { color: var(--cyan); margin: 0 5px; text-decoration: none; }
+        .lang-switch a.active { font-weight: bold; text-decoration: underline; }
+        .container { max-width: 900px; margin: 0 auto; background: var(--panel); border: 1px solid #1f2937; border-radius: 8px; padding: 30px; }
+        h2 { color: var(--cyan); margin-bottom: 15px; font-size: 1.2rem; border-left: 4px solid var(--cyan); padding-left: 10px; }
+        .version-list { list-style: none; margin-bottom: 20px; }
+        .version-item { background: #1f2937; margin: 10px 0; padding: 15px; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; border-left: 4px solid var(--green); }
+        .version-info h3 { color: var(--green); font-size: 1.1rem; }
+        .version-info p { color: var(--muted); font-size: 0.85rem; }
+        .btn { display: inline-block; background: var(--green); color: #000; padding: 8px 16px; font-weight: bold; text-decoration: none; border-radius: 4px; transition: transform 0.2s; font-size: 0.9rem; }
+        .btn:hover { background: #059669; transform: scale(1.05); color: #fff; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>NovaShell Enterprise Archive</h1>
+        <p>Project Version History: from the first (v1.0) to the latest (v5.0)</p>
+        <div class="lang-switch">
+            Language: <a href="index.ru.html">RU</a> | <a href="index.uk.html">UK</a> | <a href="index.en.html" class="active">EN</a>
+        </div>
+    </header>
+    <div class="container">
+        <h2>📦 Available Versions for Download</h2>
+        <ul class="version-list">
+            <li class="version-item">
+                <div class="version-info">
+                    <h3>NovaShell Enterprise v5.0 (Latest)</h3>
+                    <p>Full feature set, advanced system commands, Win32 API.</p>
+                </div>
+                <a href="NovaShell_Enterprise_v5.0.zip" class="btn" download>Download v5.0</a>
+            </li>
+            <li class="version-item">
+                <div class="version-info">
+                    <h3>NovaShell Enterprise v4.0</h3>
+                    <p>Added process monitoring and basic network inspectors.</p>
+                </div>
+                <a href="NovaShell_Enterprise_v4.0.zip" class="btn" download>Download v4.0</a>
+            </li>
+            <li class="version-item">
+                <div class="version-info">
+                    <h3>NovaShell Enterprise v3.0</h3>
+                    <p>Integration of configuration files and logging logs.</p>
+                </div>
+                <a href="NovaShell_Enterprise_v3.0.zip" class="btn" download>Download v3.0</a>
+            </li>
+            <li class="version-item">
+                <div class="version-info">
+                    <h3>NovaShell Enterprise v2.0</h3>
+                    <p>Extended command line interface and improved color palette.</p>
+                </div>
+                <a href="NovaShell_Enterprise_v2.0.zip" class="btn" download>Download v2.0</a>
+            </li>
+            <li class="version-item">
+                <div class="version-info">
+                    <h3>NovaShell Enterprise v1.0 (First Version)</h3>
+                    <p>Core command management console built in pure C++.</p>
+                </div>
+                <a href="NovaShell_Enterprise_v1.0.zip" class="btn" download>Download v1.0</a>
+            </li>
+        </ul>
+    </div>
+</body>
+</html>

@@ -1,0 +1,48 @@
+===================================================================
+        NOVASHELL ENTERPRISE v5.0 - COMPLETE COMMAND REFERENCE
+===================================================================
+
+[SYSTEM / sys]
+  sys info             - General statistics (Uptime, RAM, processes).
+  sys uptime           - Current session uptime.
+  sys whoami           - Current operating system user account name.
+  sys env              - View all environment variables (PATH, etc.).
+  sys save [file]      - Export process snapshot to a text report.
+  sys history          - View command execution history.
+  sys color <color>    - Change text color (green, cyan, pink, brightred).
+  sys cls              - Clear console screen.
+  sys repair           - Auto-repair standard configuration files (config.ini).
+  sys openpath         - Open current project folder in Windows Explorer.
+  sys files            - Interactive view of all project files and directories.
+  sys clearlog         - Clear system log file (novashell.log).
+  sys reboot           - Instant reboot of the NovaShell process.
+
+[PROCESSES / proc]
+  proc list            - List all active processes and their RAM usage.
+  proc list sort mem   - Sort processes by memory consumption.
+  proc list sort pid   - Sort processes by their numeric ID.
+  proc list sort name  - Sort processes alphabetically by name.
+  proc monitor         - Real-time interactive process monitor (ESC to exit).
+  proc find <name>     - Find process by name and check its RAM.
+  proc kill <PID>      - Terminate a process by its PID.
+  proc killall <name>  - Terminate all processes with the specified name.
+  proc priority <PID> <level> - Change process priority (idle, normal, high, realtime).
+
+[WINDOWS SERVICES / srv]
+  srv list             - List all Windows services and their statuses.
+  srv start <name>     - Start a Windows system service.
+  srv stop <name>      - Stop a Windows system service.
+
+[NETWORK / net]
+  net connections      - Inspector of active TCP connections and process PIDs.
+
+[CONFIGURATION / conf]
+  conf list            - View configuration file contents.
+  conf add <path>      - Add a program to auto-run on startup.
+
+[GENERAL COMMANDS]
+  lang <ru|uk|en>      - Switch interface language (RU, UA, EN).
+  start <path>         - Launch any .exe, control panel applet (.cpl) or snap-in (.msc).
+  help                 - Display this help reference guide.
+  exit                 - Animated shutdown and exit.
+===================================================================

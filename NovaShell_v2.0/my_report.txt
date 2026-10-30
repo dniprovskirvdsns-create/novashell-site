@@ -1,0 +1,255 @@
+=========================================================
+              NOVASHELL SYSTEM REPORT                    
+  Дата и время генерации: 2026-10-30 13:20:32
+=========================================================
+
+---------------------------------------------------------
+ PID      | Память (RAM) | Имя процесса
+---------------------------------------------------------
+ 0        |    N/A     | [System Process]
+ 4        |    N/A     | System
+ 236      |    N/A     | Secure System
+ 280      |    N/A     | Registry
+ 712      |    N/A     | smss.exe
+ 992      |    N/A     | csrss.exe
+ 1076     |    N/A     | wininit.exe
+ 1084     |    N/A     | csrss.exe
+ 1180     |    N/A     | winlogon.exe
+ 1208     |    N/A     | services.exe
+ 1248     |    N/A     | LsaIso.exe
+ 1256     |    N/A     | lsass.exe
+ 1392     |    N/A     | svchost.exe
+ 1424     |    N/A     | fontdrvhost.exe
+ 1432     |    N/A     | fontdrvhost.exe
+ 1516     |    N/A     | svchost.exe
+ 1564     |    N/A     | svchost.exe
+ 1628     |    N/A     | dwm.exe
+ 1780     |    N/A     | svchost.exe
+ 1872     |    N/A     | svchost.exe
+ 1912     |    N/A     | svchost.exe
+ 1924     |    N/A     | svchost.exe
+ 1936     |    N/A     | svchost.exe
+ 1944     |    N/A     | svchost.exe
+ 1068     |    N/A     | svchost.exe
+ 1316     |    N/A     | svchost.exe
+ 2056     |    N/A     | svchost.exe
+ 2168     |    N/A     | svchost.exe
+ 2264     |    N/A     | svchost.exe
+ 2272     |    N/A     | amdfendrsr.exe
+ 2280     |    N/A     | atiesrxx.exe
+ 2460     |    N/A     | atieclxx.exe
+ 2544     |    N/A     | svchost.exe
+ 2552     |    N/A     | svchost.exe
+ 2560     |    N/A     | svchost.exe
+ 2708     |    N/A     | Memory Compression
+ 2716     |    N/A     | svchost.exe
+ 2764     |    N/A     | svchost.exe
+ 2812     |    N/A     | svchost.exe
+ 2820     |    N/A     | svchost.exe
+ 2980     |    N/A     | svchost.exe
+ 3008     |    N/A     | svchost.exe
+ 3032     |    N/A     | svchost.exe
+ 3200     |    N/A     | svchost.exe
+ 3208     |    N/A     | svchost.exe
+ 3280     |    N/A     | svchost.exe
+ 3344     |    N/A     | svchost.exe
+ 3376     |    N/A     | svchost.exe
+ 3384     |    N/A     | svchost.exe
+ 3528     |    N/A     | svchost.exe
+ 3608     |    N/A     | svchost.exe
+ 3808     |    N/A     | svchost.exe
+ 3816     |    N/A     | svchost.exe
+ 3820     |    N/A     | svchost.exe
+ 3896     |    N/A     | svchost.exe
+ 4008     |    N/A     | spoolsv.exe
+ 4152     |    N/A     | svchost.exe
+ 4300     |    N/A     | svchost.exe
+ 4316     |    N/A     | svchost.exe
+ 4332     |    N/A     | svchost.exe
+ 4340     |    N/A     | svchost.exe
+ 4348     |    N/A     | svchost.exe
+ 4356     |    N/A     | svchost.exe
+ 4364     |    N/A     | svchost.exe
+ 4372     |    N/A     | svchost.exe
+ 4384     |    N/A     | armsvc.exe
+ 4412     |    N/A     | RtkBtManServ.exe
+ 4436     |    N/A     | GameInputRedistService.exe
+ 4452     |    N/A     | XboxService.exe
+ 4468     |    N/A     | HPPrintScanDoctorService.exe
+ 4476     |    N/A     | sqlwriter.exe
+ 4532     |    N/A     | MpDefenderCoreService.exe
+ 4572     |    N/A     | wslservice.exe
+ 4596     |    N/A     | vmcompute.exe
+ 4692     |    N/A     | OfficeClickToRun.exe
+ 4956     |    N/A     | svchost.exe
+ 4992     |    N/A     | dasHost.exe
+ 5176     |    N/A     | svchost.exe
+ 5460     |    N/A     | WUDFHost.exe
+ 6028     |    N/A     | MBAMService.exe
+ 5200     |    N/A     | dasHost.exe
+ 6400     |    N/A     | svchost.exe
+ 6812     |    N/A     | svchost.exe
+ 7252     |    N/A     | svchost.exe
+ 7508     |   18.5 MB   | GameInputRedistService.exe
+ 7536     |   17.0 MB   | XboxService.exe
+ 7680     |    5.3 MB   | GameInputRawInputProxy.exe
+ 7764     |    N/A     | svchost.exe
+ 7876     |    N/A     | gamingservicesnet.exe
+ 7884     |    N/A     | gamingservices.exe
+ 8040     |    N/A     | svchost.exe
+ 8116     |   53.1 MB   | sihost.exe
+ 8168     |   37.1 MB   | svchost.exe
+ 3352     |    7.3 MB   | svchost.exe
+ 5376     |   36.5 MB   | svchost.exe
+ 7468     |   24.3 MB   | taskhostw.exe
+ 8612     |    N/A     | svchost.exe
+ 8696     |    N/A     | svchost.exe
+ 9152     |    N/A     | vmmemCmZygote
+ 9184     |    N/A     | svchost.exe
+ 8764     |    N/A     | svchost.exe
+ 4208     |  482.8 MB   | explorer.exe
+ 9008     |   59.2 MB   | ShellHost.exe
+ 6556     |    N/A     | svchost.exe
+ 7184     |   56.3 MB   | CrossDeviceResume.exe
+ 6732     |    N/A     | svchost.exe
+ 1744     |   60.4 MB   | PowerToys.exe
+ 9916     |   32.1 MB   | WidgetBoard.exe
+ 9992     |  147.3 MB   | SearchHost.exe
+ 10016    |  239.1 MB   | StartMenuExperienceHost.exe
+ 10376    |   25.5 MB   | WidgetService.exe
+ 10384    |   71.0 MB   | RuntimeBroker.exe
+ 10440    |   28.0 MB   | svchost.exe
+ 10868    |   48.7 MB   | MicrosoftStartFeedProvider.exe
+ 11124    |  127.9 MB   | msedgewebview2.exe
+ 10324    |   12.6 MB   | msedgewebview2.exe
+ 11312    |    N/A     | svchost.exe
+ 4188     |   42.1 MB   | msedgewebview2.exe
+ 11400    |  100.5 MB   | msedgewebview2.exe
+ 11608    |   20.1 MB   | msedgewebview2.exe
+ 7336     |  125.8 MB   | msedgewebview2.exe
+ 12516    |    N/A     | audiodg.exe
+ 6128     |   19.6 MB   | PowerToys.QuickAccess.exe
+ 12924    |   62.2 MB   | ctfmon.exe
+ 13188    |  231.4 MB   | Malwarebytes.exe
+ 5820     |    N/A     | svchost.exe
+ 12980    |  239.9 MB   | TextInputHost.exe
+ 13376    |    N/A     | SearchIndexer.exe
+ 6864     |    3.1 MB   | PowerToys.AlwaysOnTop.exe
+ 12872    |   19.6 MB   | PowerToys.Awake.exe
+ 6876     |   33.5 MB   | PowerToys.ColorPickerUI.exe
+ 13972    |    7.8 MB   | PowerToys.FancyZones.exe
+ 14184    |  242.4 MB   | Microsoft.CmdPal.UI.exe
+ 14232    |    N/A     | svchost.exe
+ 13432    |    1.0 MB   | PowerToys.KeyboardManagerEngine.exe
+ 14456    |    N/A     | WmiPrvSE.exe
+ 14688    |  172.8 MB   | PowerToys.Peek.UI.exe
+ 14828    |   31.8 MB   | PowerToys.ShortcutGuide.exe
+ 15792    |   51.4 MB   | Microsoft.CmdPal.Ext.PowerToys.exe
+ 15932    |  101.5 MB   | steam.exe
+ 16000    |   74.5 MB   | XboxPcTray.exe
+ 16136    |   54.2 MB   | XboxPcAppFT.exe
+ 16276    |  175.1 MB   | steamwebhelper.exe
+ 16332    |    N/A     | steamservice.exe
+ 2000     |   65.9 MB   | ApplicationFrameHost.exe
+ 2352     |  180.7 MB   | XboxPcApp.exe
+ 3340     |   40.7 MB   | RuntimeBroker.exe
+ 16528    |    N/A     | svchost.exe
+ 16676    |   16.1 MB   | steamwebhelper.exe
+ 17052    |  218.9 MB   | steamwebhelper.exe
+ 17396    |   34.8 MB   | steamwebhelper.exe
+ 16388    |   28.6 MB   | steamwebhelper.exe
+ 7268     |  446.9 MB   | steamwebhelper.exe
+ 17204    |   92.7 MB   | RadeonSoftware.exe
+ 17272    |    3.8 MB   | CPUMetricsServer.exe
+ 12528    |    1.0 MB   | cncmd.exe
+ 10948    |    0.9 MB   | cmd.exe
+ 10600    |    1.1 MB   | conhost.exe
+ 9256     |   12.5 MB   | AMDRSServ.exe
+ 17756    |    1.8 MB   | amdow.exe
+ 17764    |   14.7 MB   | AMDRSSrcExt.exe
+ 17620    |  134.0 MB   | steamwebhelper.exe
+ 17528    |  246.8 MB   | SystemSettings.exe
+ 4752     |    N/A     | svchost.exe
+ 17924    |   15.0 MB   | svchost.exe
+ 13192    |    N/A     | svchost.exe
+ 8048     |    N/A     | svchost.exe
+ 16912    |    N/A     | svchost.exe
+ 14188    |   34.1 MB   | svchost.exe
+ 6872     |    N/A     | svchost.exe
+ 14448    |    N/A     | svchost.exe
+ 10928    |  324.1 MB   | chrome.exe
+ 6960     |    9.9 MB   | chrome.exe
+ 11540    |    N/A     | svchost.exe
+ 4724     |   59.6 MB   | chrome.exe
+ 2224     |  123.0 MB   | chrome.exe
+ 4824     |   32.0 MB   | chrome.exe
+ 11968    |   28.3 MB   | chrome.exe
+ 11416    |   20.3 MB   | chrome.exe
+ 5936     |  625.1 MB   | chrome.exe
+ 11888    |   22.4 MB   | svchost.exe
+ 3780     |  282.8 MB   | chrome.exe
+ 8792     |   70.1 MB   | chrome.exe
+ 5720     |  111.2 MB   | msedgewebview2.exe
+ 2840     |   13.2 MB   | msedgewebview2.exe
+ 2572     |   59.8 MB   | msedgewebview2.exe
+ 17560    |   38.7 MB   | msedgewebview2.exe
+ 10532    |   19.5 MB   | msedgewebview2.exe
+ 372      |   46.3 MB   | msedgewebview2.exe
+ 15808    |  494.9 MB   | Viber.exe
+ 11804    |    N/A     | MoUsoCoreWorker.exe
+ 1404     |    N/A     | svchost.exe
+ 12540    |   20.8 MB   | svchost.exe
+ 6340     |   13.2 MB   | dllhost.exe
+ 9672     |   11.6 MB   | UserOOBEBroker.exe
+ 9968     |    N/A     | svchost.exe
+ 9060     |  146.4 MB   | msedge.exe
+ 6312     |   13.0 MB   | msedge.exe
+ 6260     |   53.6 MB   | msedge.exe
+ 9828     |   42.5 MB   | msedge.exe
+ 12452    |   19.4 MB   | msedge.exe
+ 16732    |    N/A     | svchost.exe
+ 19564    |    N/A     | WUDFHost.exe
+ 20144    |  171.9 MB   | Code.exe
+ 3364     |   33.8 MB   | Code.exe
+ 19712    |  171.7 MB   | Code.exe
+ 8916     |   51.3 MB   | Code.exe
+ 20660    |  444.4 MB   | Code.exe
+ 20828    |  137.8 MB   | Code.exe
+ 21040    |  119.3 MB   | Code.exe
+ 21316    |  118.6 MB   | Code.exe
+ 18644    |  200.3 MB   | Code.exe
+ 17740    |    N/A     | svchost.exe
+ 19228    | 1564.1 MB   | chrome.exe
+ 21172    |   74.5 MB   | chrome.exe
+ 4176     |  121.2 MB   | Code.exe
+ 21620    |  360.3 MB   | Code.exe
+ 12584    |   11.3 MB   | OpenConsole.exe
+ 7004     |   82.0 MB   | powershell.exe
+ 18844    |   29.8 MB   | cpptools.exe
+ 13652    |    7.0 MB   | conhost.exe
+ 3856     |    5.5 MB   | cpptools.exe
+ 10880    |   22.5 MB   | cpptools-srv.exe
+ 10684    |    7.0 MB   | conhost.exe
+ 20292    |   24.8 MB   | cpptools-srv2.exe
+ 19700    |    7.0 MB   | conhost.exe
+ 3044     |   71.6 MB   | backgroundTaskHost.exe
+ 21672    |   32.6 MB   | RuntimeBroker.exe
+ 21696    |   23.6 MB   | mintty.exe
+ 18104    |    9.6 MB   | conhost.exe
+ 18484    |   12.0 MB   | bash.exe
+ 21920    |    N/A     | svchost.exe
+ 15920    |   24.3 MB   | cpptools-srv2.exe
+ 10752    |    7.1 MB   | conhost.exe
+ 3400     |   97.0 MB   | SnippingTool.exe
+ 9164     |   10.8 MB   | taskhostw.exe
+ 21564    |  180.0 MB   | chrome.exe
+ 4896     |   64.9 MB   | chrome.exe
+ 11204    |   31.4 MB   | chrome.exe
+ 18452    |   12.9 MB   | smartscreen.exe
+ 18384    |    5.4 MB   | novashell.exe
+ 6056     |    9.8 MB   | conhost.exe
+ 22400    |   14.4 MB   | OpenConsole.exe
+ 1388     |  112.5 MB   | WindowsTerminal.exe
+---------------------------------------------------------
+ Всего проанализировано процессов: 244
+=========================================================
